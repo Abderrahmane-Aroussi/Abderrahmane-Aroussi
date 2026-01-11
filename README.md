@@ -30,10 +30,10 @@ I'm a passionate developer and security student from Morocco, focusing on buildi
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abderrahmane-Aroussi&show_icons=true&theme=radical&hide_border=true" alt="Abderrahmane's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abderrahmane-Aroussi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abderrahmane-Aroussi&show_icons=true&theme=buefy&hide_border=true&bg_color=ffffff" alt="Abderrahmane's Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abderrahmane-Aroussi&layout=compact&theme=buefy&hide_border=true&bg_color=ffffff" alt="Top Languages" />
 </p>
-
 ---
 
 [![](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abderrahmane-aroussi)
