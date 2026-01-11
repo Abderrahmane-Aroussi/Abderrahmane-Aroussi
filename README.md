@@ -30,13 +30,7 @@ I'm a passionate developer and security student from Morocco, focusing on buildi
 
 <p align="center">
   <a href="https://github.com/Abderrahmane-Aroussi">
-    <img src="https://github-readme-stats.vercel.app/api?username=Abderrahmane-Aroussi&show_icons=true&theme=transparent&hide_border=true" alt="Abderrahmane's Stats" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Abderrahmane-Aroussi">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abderrahmane-Aroussi&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abderrahmane-Aroussi&show_icons=true&theme=transparent&hide_border=true" alt="Abderrahmane's Stats" />
   </a>
 </p>
 ---
