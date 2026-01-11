@@ -26,13 +26,18 @@ I'm a passionate developer and security student from Morocco, focusing on buildi
 </p>
 
 ---
-
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abderrahmane-Aroussi&show_icons=true&theme=buefy&hide_border=true&bg_color=ffffff" alt="Abderrahmane's Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abderrahmane-Aroussi&layout=compact&theme=buefy&hide_border=true&bg_color=ffffff" alt="Top Languages" />
+  <a href="https://github.com/Abderrahmane-Aroussi">
+    <img src="https://github-readme-stats.vercel.app/api?username=Abderrahmane-Aroussi&show_icons=true&theme=transparent&hide_border=true" alt="Abderrahmane's Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Abderrahmane-Aroussi">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abderrahmane-Aroussi&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+  </a>
 </p>
 ---
 
